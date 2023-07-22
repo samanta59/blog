@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.places{
+    border: 1px solid #03C04A;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.places img{
+    width: 100%;
+}
+
+.environment_li{
+    margin-top: 12px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid blue;
+    padding: 8px;
+}
